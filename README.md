@@ -19,6 +19,8 @@ Vuelve a la rama master y realiza otro merge. Es una fusión fast-forward. Los d
 Visualiza las ramas que han sido fusionadas con la rama master
 ![Ramas fusionadas](ramasfusionadas.PNG)
 Elimina las ramas correctamente fusionadas (sin asterisco) para quedarte SOLO con la rama master. 
+![Eliminando ramas fusionadas](eliminarramas.PNG)
 Realiza una copia a este repositorio remoto
 Recuerda añadir estas instrucciones con los pantallazos en el fichero README.md
-En GitHub entra en Insights/network y visualiza el gráfico del repositorio con los merge y cinco commits  # practica4-git-resolviendo-un-conflicto-bmleon
+En GitHub entra en Insights/network y visualiza el gráfico del repositorio con los merge y cinco commits  
+- Este apartado no lo puedo hacer ya que el repositorio es privado 
