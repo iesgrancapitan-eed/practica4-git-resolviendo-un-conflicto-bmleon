@@ -7,6 +7,7 @@ Crea y salta a "rama-1". Avanza en un commit con tu nombre de pila en un párraf
 Vuelve a la rama master
 Crea y salta a "rama-2". Avanza en un commit con tu apellido en un párrafo dentro del body
 Muestra el estado del repositorio de forma gráfica y resumida
+![Estado del repositorio en la rama actual](estadodemirepositorio.PNG)
 Haz un merge a rama-1. Intentas fusionar ambas ramas. Aparecerá un conflicto porque ambos commits trabajan en la misma porción <body></body> de un mismo archivo index.html. Git no será capaz de fusionarlas directamente. 
 El editor VS Code reconoce los conflictos de fusión. Las diferencias se resaltan y hay acciones en línea para aceptar los cambios. Deja un único párrafo con tu nombre de pila y apellido.
 Una vez que se resuelto el conflicto confirma el archivo en conflicto para que pueda realizar esos cambios
